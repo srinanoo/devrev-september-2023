@@ -1,0 +1,13 @@
+Basic Coding Standards:
+    - Folder Structure:
+        Website:
+            *.html (programming in root folder)
+            css/
+                *.css
+            images/
+                *.*
+            js/
+                .js
+
+    - Meaningful names:
+        
